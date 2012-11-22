@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="integer" name="text_size" type="integer">50</item>
+    <string name="accelerometer_range">&quot;0.1&quot;</string>
+</resources>
