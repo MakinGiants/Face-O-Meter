@@ -20,6 +20,6 @@ but will be thoroughly reviewed and discussed.
 
 ## About
 
-MakinGIANTS
-http://www.makingiants.com
-here.makin.giants@gmail.com
++ MakinGIANTS
++ http://www.makingiants.com
++ here.makin.giants@gmail.com
